@@ -106,10 +106,12 @@ herramienta es muy útil para explorar la base de datos.
 por ejemplo,
 - ¿Como esta distribuida la base de datos según los géneros?
 ![image](./figures/img1.png)
+
 Aqui parece que esta distribuida de manera equitativa para todos los géneros
 
 - ¿Como esta distribuida la base de datos según los tipos de cancer?
 ![image](./figures/img2.png)
+
 Aqui parece que esta distribuida de manera equitativa para todos los tipos de
 cancer
 
@@ -119,6 +121,7 @@ cancer
 
 - Como están distribuidos los casos de severidad según el tipo de cancer?
 ![image](./figures/img4.png)
+
 Podemos utilizar un diagrama de boxplot, que nos dice datos estadísticos de los datos,
 nos dicen, los quantiles, el maximo, media, minimo y outliers.\
 Aqui podemos ver que para todos los tipos de cancer, la media de severidad es
@@ -128,10 +131,12 @@ que tiene un tercer quantil más alto
 
 - ¿La Severidad de los casos es similar entre todos los grupos de edades?
 ![image](./figures/img5.png)
+
 Parece que los datos indican que no hay mucha diferencia entre los grupos de edad
 
 - ¿El Costo de los tratamientos es diferente entre el tipo de cancer?
 ![image](./figures/img6.png)
+
 Estos gráficos nos dicen cuantos casos entran en un rango de costos, por ejemplo,
 cada barra del primer gráfico, nos dice cuantos pacientes tuvieron que pagar ese
 valor para el cancer de cervix Podemos ver que existen Tipos de cancer como el de púlmon donde el costo
@@ -141,11 +146,13 @@ costoso
 
 - Ahora podemos ver la relación entre atributos, para eso por ejemplo el gráfico
 ![image](./figures/img11.png)
+
 Aqui podemos ver la relación entre la obesidad y la severidad, para esto hice
 utilicé la herramienta Bookeh, por lo que es interactivo dentro del notebook
 
 - Y finalmente solo para ver que más se puede hacer con Matplotlib,
 ![image](./figures/img9.png)
+
 Queremos ver si el consumo de cigarro se relaciona a una mayor severidad. Después de un análisis
 de regresión lineal podemos ver que si.
 # Conclusiones
