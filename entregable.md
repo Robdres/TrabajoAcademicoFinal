@@ -7,9 +7,8 @@ https://github.com/Robdres/TrabajoAcademicoFinal
 https://www.kaggle.com/datasets/zahidmughal2343/global-cancer-patients-2015-2024
 
 ## Pero de manera local esta en
--CSV: [./data/global-cancer-patients-2015-2024.csv](./data/global-cancer-patients-2015-2024.csv)
--SQL: [./data/global-cancer-patients.db](./data/global-cancer-patients.db)
-
+-CSV: [global\_cancer\_patients\_2015\_2024.csv](./data/global_cancer_patients_2015_2024.csv)
+-SQL: [./data/global-cancer-patients.db](./data/global_cancer_patients.db)
 ## El script para crear el database es
 
 ```
