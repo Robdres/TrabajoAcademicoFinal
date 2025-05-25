@@ -105,11 +105,13 @@ herramienta es muy útil para explorar la base de datos.
 4. Comenzar con las visualizaciones, aqui intento responder preguntas,
 por ejemplo,
 - ¿Como esta distribuida la base de datos según los géneros?
+  
 ![image](./figures/img1.png)
 
 Aqui parece que esta distribuida de manera equitativa para todos los géneros
 
 - ¿Como esta distribuida la base de datos según los tipos de cancer?
+  
 ![image](./figures/img2.png)
 
 Aqui parece que esta distribuida de manera equitativa para todos los tipos de
@@ -117,9 +119,11 @@ cancer
 
 
 - Existe buena representividad de casos de severidad
+  
 ![image](./figures/img3.png)
 
 - Como están distribuidos los casos de severidad según el tipo de cancer?
+  
 ![image](./figures/img4.png)
 
 Podemos utilizar un diagrama de boxplot, que nos dice datos estadísticos de los datos,
@@ -130,11 +134,13 @@ de outliers es más común en ciertos casos. Por ejemplo, el cancer de colon de 
 que tiene un tercer quantil más alto
 
 - ¿La Severidad de los casos es similar entre todos los grupos de edades?
+  
 ![image](./figures/img5.png)
 
 Parece que los datos indican que no hay mucha diferencia entre los grupos de edad
 
 - ¿El Costo de los tratamientos es diferente entre el tipo de cancer?
+  
 ![image](./figures/img6.png)
 
 Estos gráficos nos dicen cuantos casos entran en un rango de costos, por ejemplo,
@@ -145,12 +151,14 @@ costoso
 
 
 - Ahora podemos ver la relación entre atributos, para eso por ejemplo el gráfico
+  
 ![image](./figures/img11.png)
 
 Aqui podemos ver la relación entre la obesidad y la severidad, para esto hice
 utilicé la herramienta Bookeh, por lo que es interactivo dentro del notebook
 
 - Y finalmente solo para ver que más se puede hacer con Matplotlib,
+  
 ![image](./figures/img9.png)
 
 Queremos ver si el consumo de cigarro se relaciona a una mayor severidad. Después de un análisis
