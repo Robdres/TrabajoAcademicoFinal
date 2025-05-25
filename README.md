@@ -9,8 +9,6 @@ en este trabajo quiero centrarme en que con el uso de la tecnología podemos
 entender, manipular y organizar los datos que a simple vista es imposible de
 hacer sentido.
 
-Para este caso
-
 # Marco teórico de las tecnologías
 Para este caso, solo explicaré cada una de las herramientas.
 ## Marco Teórico
