@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1748481710.89633 "main.xdv" "main.pdf" "main" 1748481711.91041 0
-  "main.xdv" 1748481710.76082 70540 ce43b5d976861bdfea813b4804374585 "xelatex"
+["xdvipdfmx"] 1748481879.18842 "main.xdv" "main.pdf" "main" 1748481880.17843 0
+  "main.xdv" 1748481879.04781 74592 8967e9731e7c8399eb80063b887761ac "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1748481708.70135 "main.tex" "main.xdv" "main" 1748481711.90679 0
+["xelatex"] 1748481877.32551 "main.tex" "main.xdv" "main" 1748481880.17466 0
   "../figures/img0.png" 1748202456.14687 153784 8792ea5a03403d21a1165555e2367b9e ""
   "../figures/img1.png" 1748196238.81674 52310 449fda53eda0c862c59f5cbdeb4a8c96 ""
   "../figures/img2.png" 1748196246.67974 65940 a2c593519030dd8d4b5ff57a76ba1c7f ""
@@ -224,11 +224,11 @@
   "beamerinnerthememetropolis.sty" 1748398317.7493 9093 b3363c49bd2ed0be1fd18f75a61056fe ""
   "beamerouterthememetropolis.sty" 1748398317.7494 4645 f04b2e6f7e77adc819d7639fed40b2e8 ""
   "beamerthememetropolis.sty" 1748398317.74949 3461 5c69ffdf5501aa7e38eb53d6f51b5efa ""
-  "main.aux" 1748481710.75969 3174 7c5a9d4936724339ab5cd624cb39e34f "xelatex"
-  "main.nav" 1748481710.76082 1769 391a3732a6b33bf29d215ec6b6c20d6a "xelatex"
-  "main.out" 1748481710.76082 213 3687dcb5f03d3886f58e61b6111a8a00 "xelatex"
-  "main.tex" 1748479423.58735 4491 8778bbeabb1a44a38ba53b0440036c12 ""
-  "main.vrb" 1748481710.73026 180 79dbe1768752d5447e7363827dc27e1e "xelatex"
+  "main.aux" 1748481879.04668 3345 aa4d3fd8ca189c48b36ed10204cc5b42 "xelatex"
+  "main.nav" 1748481879.04781 1862 3bb8395214f566e3f0246d3e3465ed8e "xelatex"
+  "main.out" 1748481879.04781 213 3687dcb5f03d3886f58e61b6111a8a00 "xelatex"
+  "main.tex" 1748481877.19842 4689 0b27720b8d26c1c07e11ad685a379ee7 ""
+  "main.vrb" 1748481879.02136 180 79dbe1768752d5447e7363827dc27e1e "xelatex"
   (generated)
   "main.aux"
   "main.log"
